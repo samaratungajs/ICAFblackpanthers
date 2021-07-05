@@ -1,0 +1,36 @@
+#approve .read-more:hover{
+    font-size: 14px;
+  }
+#approve:hover{
+    box-shadow: 8px 8px 8px #cd950c
+  
+    ;
+    transform:scale(1.1);
+  }
+  #approve{
+  height:auto;
+  width:700px;
+  color: aliceblue;
+  border:1px solid black;
+  transition:.3s;
+  margin: 1rem;
+  display: inline-block;
+  background: #000033;
+  
+  }
+  #pay{
+      color: red;
+     font-size: 30px;
+     font-weight: 400;
+     
+  }
+  #dom{
+      display:relative;
+  }
+  #container{
+      display: flex;
+      flex-wrap:wrap;
+  }
+  #btn1{
+       background-color: green;
+  }

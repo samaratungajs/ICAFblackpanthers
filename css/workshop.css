@@ -1,0 +1,16 @@
+#workshop .read-more:hover{
+    font-size: 14px;
+  }
+#workshop:hover{
+    box-shadow: 8px 8px 8px #cd950c
+  
+    ;
+    transform:scale(1.1);
+  }
+  #workshop{
+  height:450px;
+  width:400px;
+  border:1px solid black;
+  transition:.3s;
+  margin: 1rem;
+  }
